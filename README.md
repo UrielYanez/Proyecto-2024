@@ -13,7 +13,8 @@ El proyecto será un carrito cargado de regalos, este carrito constara de 4 moto
 |--|--|--|--|
 |ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
 |HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" />|1|30.00|
-|...||||
+|Mini Motores|![image](https://github.com/user-attachments/assets/2f80d12d-8b6c-4bba-a4b2-d0623acab022)|4|100.00|
+|Leds|![image](https://github.com/user-attachments/assets/dcbb8e7d-bcc9-44ff-b03b-9cfcca2d66f8)|6|20.00|
 
 ## Software a utilizar
 |Software|Versión|
