@@ -26,7 +26,7 @@ El proyecto será un carrito cargado de regalos, este carrito constara de 4 moto
 Imagen hecha a mano del personaje con los componentes requeridos
 
 ## Enlaces de la simulación de wokwi
-Enlace para el Instrumento de Evaluación https://wokwi.com/projects/410241571228115969
+Enlace para el Instrumento de Evaluación https://wokwi.com/projects/410240563796056065
 
 Enlace hacia la simulación del proyecto decembrino: 
 
