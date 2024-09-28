@@ -1,6 +1,6 @@
 Plantilla para modifica  de archivo README.md para la evaluación.
 
-# Personaje2024
+# Proyecto 2024
 ## Nombre del proyecto
 Carrito Repartidor de Regalos
 ## Creador
