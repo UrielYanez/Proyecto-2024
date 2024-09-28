@@ -22,17 +22,17 @@ El proyecto será un carrito cargado de regalos, este carrito constara de 4 moto
 |Thonny|4.1.6|
 |...||
 
-## Dibujo del personaje
-Imagen hecha a mano del personaje con los componentes requeridos
+## Dibujo del Proyecto
+![boceto](https://github.com/user-attachments/assets/520d5ca6-cf51-4ed4-ae53-3ecbfb7d2f37)
+
 
 ## Enlaces de la simulación de wokwi
 Enlace para el Instrumento de Evaluación https://wokwi.com/projects/410240563796056065
 
-Enlace hacia la simulación del proyecto decembrino: 
+No hay enlace hacia la simulación del proyecto decembrino debido a que el wokwi no cuenta con los componentes que yo voy a usar en mi proyecto
 
 ## Videos
-Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
-Ejemplo: Con este codigo se obtiene la temperatura y con este otro se muestra en la pantalla
+https://drive.google.com/file/d/1MkJADFtnCcWzVLjZofilWRw4oq8eaN4R/view?usp=sharing
 
 ## Capturas de Evaluaciones de Curso de C
 ![image](https://github.com/user-attachments/assets/d8b5cf0a-1af9-429b-b13e-cbfb4d170c3b)
