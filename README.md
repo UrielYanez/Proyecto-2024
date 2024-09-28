@@ -1,7 +1,7 @@
 Plantilla para modifica  de archivo README.md para la evaluación.
 
 # Personaje2024
-## Nombre del personaje
+## Nombre del proyecto
 Carrito Repartidor de Regalos
 ## Creador
 Uriel Yáñez Aguayo
