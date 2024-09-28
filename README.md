@@ -2,11 +2,11 @@ Plantilla para modifica  de archivo README.md para la evaluación.
 
 # Personaje2024
 ## Nombre del personaje
-Personaje
+Carrito Repartidor de Regalos
 ## Creador
 Uriel Yáñez Aguayo
 ## Explicacion del funcionamiento
-El personaje realiza
+El proyecto será un carrito cargado de regalos, este carrito constara de 4 motores los cuales haran que el carrito avance, algunas leds para indicar el movimiento del carrito, un sensor de proximidad que irá al frente del carrito para cuando detecte obstaculos se detenga, cambie de dirección y continue su trayectoria.
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
@@ -25,11 +25,14 @@ El personaje realiza
 Imagen hecha a mano del personaje con los componentes requeridos
 
 ## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+Enlace para el Instrumento de Evaluación https://wokwi.com/projects/410241571228115969
+
+Enlace hacia la simulación del proyecto decembrino: 
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
 Ejemplo: Con este codigo se obtiene la temperatura y con este otro se muestra en la pantalla
 
 ## Capturas de Evaluaciones de Curso de C
-Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+![image](https://github.com/user-attachments/assets/d8b5cf0a-1af9-429b-b13e-cbfb4d170c3b)
+
